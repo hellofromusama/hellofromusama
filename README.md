@@ -1,6 +1,6 @@
 ### Hi there, I'm Usama Javed 👋
    
-## I'm a FrontEnd Developer and Learner!
+## I'm a Full stack Developer and eager Learner!
 
 - 🌱 I’m currentlly a Node.Js Developer.
 - 👯 I’m looking to collaborate with other content creators
