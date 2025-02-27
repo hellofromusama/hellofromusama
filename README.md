@@ -4,7 +4,7 @@
 
 - 🌱 I’m currentlly a Node.Js Developer.
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2025 Goals: Learn more about Skills and get into machine learning  
+- 🥅 2025 Goals: Learn more advance Skills and get into machine learning  
 
 ### Connect with me:
 
