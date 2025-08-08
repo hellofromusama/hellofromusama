@@ -13,11 +13,12 @@ Welcome to my GitHub! I’m a passionate Full Stack Developer based in Perth, WA
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)][linkedin]
-[![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg)][twitter]
-[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg)][instagram]
-[![YouTube](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg)][youtube]
-[![Facebook](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg)][facebook]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/hellofromusama/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge)](https://mobile.twitter.com/HelloFromUsama_)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge)](https://www.instagram.com/hellofromusama/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCQGyT45bdqJS1hMDg5Ex6Ow)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge)](https://www.facebook.com/khwajausama.javedmir)
+
 
 ---
 
