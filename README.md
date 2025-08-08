@@ -1,53 +1,85 @@
-### Hi there, I'm Usama Javed 👋
-   
-## I'm a Full stack Developer and eager Learner!
+# 👋 Hi, I'm Usama Javed
 
-- 🌱 I’m currentlly a Node.Js Developer.
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2025 Goals: Learn more advance Skills and get into machine learning  
+### 🧑‍💻 Full Stack Developer | Cloud Engineer | DevOps Enthusiast | Automation Builder
 
-### Connect with me:
+Welcome to my GitHub! I’m a passionate Full Stack Developer based in Perth, WA with over 3 years of experience building scalable web applications, integrating payment solutions, and automating workflows using modern tech stacks like MERN, MEAN, and DevOps pipelines.
 
+- 🔭 Currently working as a Node.js Developer and Systems Engineer
+- 🌱 Deepening my skills in AI Agents, automation tools like **n8n**, and ML integrations
+- 👯 Looking to collaborate on **open source**, **AI bots**, and **DevOps tools**
+- 🥅 2025 Goals: Build smart automation solutions and explore production-grade AI agent workflows
 
-[<img align="left" alt="usama | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="color:#fff;" />][youtube]
-[<img align="left" alt="usama | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="usama | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="usama | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="usama | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
 
-<br />
+### 🌐 Connect with Me
 
-### Languages and Tools: 
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)][linkedin]
+[![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg)][twitter]
+[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg)][instagram]
+[![YouTube](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg)][youtube]
+[![Facebook](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg)][facebook]
 
-[<img align="left" alt="Visual Studio Code " width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="css " width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][webdevplaylist]
+---
 
-<br />
-<br />
+### ⚙️ Tech Stack & Tools
 
-[twitter]: https://mobile.twitter.com/HelloFromUsama_
-[facebook]: https://www.facebook.com/khwajausama.javedmir
-[youtube]: https://www.youtube.com/channel/UCQGyT45bdqJS1hMDg5Ex6Ow
-[instagram]: https://www.instagram.com/hellofromusama/
-[linkedin]: https://www.linkedin.com/in/usama-javed-91591714a/
-[webdevplaylist]: https://www.youtube.com/channel/UC1DSf9ydrryyHPTz5yAZSIQ
-[jsplaylist]:  https://www.youtube.com/channel/UC1DSf9ydrryyHPTz5yAZSIQ
-[cssplaylist]: https://www.youtube.com/channel/UC1DSf9ydrryyHPTz5yAZSIQ
+#### 👨‍💻 Programming Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?style=flat-square&logo=vue.js)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 
+#### 🧰 DevOps, Automation, and Infrastructure
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions)
+![n8n](https://img.shields.io/badge/-n8n-E01765?style=flat-square&logo=n8n)
+![CI/CD](https://img.shields.io/badge/-CI/CD-0A0A0A?style=flat-square&logo=jenkins)
 
-<br>
-<br>
+#### 🗃️ Databases & Tools
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis)
 
+#### 🎨 UI/UX & Frontend Tooling
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
+---
+
+### 📊 GitHub Stats
+
+![Usama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hellofromusama&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellofromusama&layout=compact&theme=radical)
+
+---
+
+### 🧠 AI, Bots & Automation Experience
+
+- 🧩 Built automation flows using **n8n** for lead generation, notifications, and custom integrations.
+- 🤖 Working on AI agent workflows for real-time customer support and business automation using **LangChain**, **Python**, and **OpenAI APIs**.
+- 🔌 Integrated external APIs with **Node.js**, **Webhook endpoints**, and **workflow builders** like Zapier and n8n.
+
+---
+
+### 🔗 Links
+
+- 📂 [Portfolio Website](https://simplifiedportfolio.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hellofromusama/)
+- 📹 [YouTube](https://www.youtube.com/channel/UCQGyT45bdqJS1hMDg5Ex6Ow)
+- 🐦 [Twitter](https://mobile.twitter.com/HelloFromUsama_)
+- 📸 [Instagram](https://www.instagram.com/hellofromusama/)
+- 📘 [Facebook](https://www.facebook.com/khwajausama.javedmir)
+
+---
+
+Thanks for stopping by! Let's build something amazing together 🚀
